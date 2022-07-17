@@ -1,0 +1,90 @@
+mines:
+  DIAMOND:
+    world: 'world'
+    #Lower corner
+    x1: 340
+    y1: 59
+    z1: -3
+    #Top corner
+    x2: 354
+    y2: 66
+    z2: -17
+    #Target block for placing the ore
+    #The block you choose means the ore has a chance of spawning there
+    block: 'STONE'
+    #Time must be in seconds
+    reset-time: 30
+    #Type of ore
+    ore: 'DIAMOND_ORE'
+
+  GOLD:
+    world: 'world'
+    #Lower corner
+    x1: 100
+    y1: 100
+    z1: 100
+    #Top corner
+    x2: 100
+    y2: 100
+    z2: 100
+    #Target block for placing the ore
+    #The block you choose means the ore has a chance of spawning there
+    block: 'STONE'
+    #Time must be in seconds
+    reset-time: 30
+    #Type of ore
+    ore: 'GOLD_ORE'
+
+  REDSTONE:
+    world: 'world'
+    #Lower corner
+    x1: 100
+    y1: 100
+    z1: 100
+    #Top corner
+    x2: 100
+    y2: 100
+    z2: 100
+    #Target block for placing the ore
+    #The block you choose means the ore has a chance of spawning there
+    block: 'STONE'
+    #Time must be in seconds
+    reset-time: 30
+    #Type of ore
+    ore: 'REDSTONE_ORE'
+
+  IRON:
+    world: 'world'
+    #Lower corner
+    x1: 100
+    y1: 100
+    z1: 100
+    #Top corner
+    x2: 100
+    y2: 100
+    z2: 100
+    #Target block for placing the ore
+    #The block you choose means the ore has a chance of spawning there
+    block: 'STONE'
+    #Time must be in seconds
+    reset-time: 30
+    #Type of ore
+    ore: 'IRON_ORE'
+
+  COAL:
+    world: 'world'
+    #Lower corner
+    x1: 100
+    y1: 100
+    z1: 100
+    #Top corner
+    x2: 100
+    y2: 100
+    z2: 100
+    #Target block for placing the ore
+    #The block you choose means the ore has a chance of spawning there
+    block: 'STONE'
+    #Time must be in seconds
+    reset-time: 30
+    #Type of ore
+    ore: 'COAL_ORE'

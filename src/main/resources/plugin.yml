@@ -1,0 +1,6 @@
+name: MinePlugin
+version: 1.0
+main: com.matthew.main.MinePlugin
+api-version: 1.18
+commands:
+  mine:
